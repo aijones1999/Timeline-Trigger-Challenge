@@ -5,7 +5,7 @@ public class PlaySequence : MonoBehaviour
 {
     public PlayableDirector timeline;
  
-    // Use this for initialization
+    
     void Start()
     {
         timeline = GetComponent<PlayableDirector>();
