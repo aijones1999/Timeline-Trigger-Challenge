@@ -25,7 +25,7 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: -4519345593667733926}
-    m_Duration: 2.1666666666666665
+    m_Duration: 1.0500000000000012
     m_TimeScale: 1
     m_ParentTrack: {fileID: -6999963721688663447}
     m_EaseInDuration: 0
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1.9354995561024209
+    m_Start: 0.8188328894357545
     m_ClipIn: 0
     m_Asset: {fileID: 6617540383040540831}
     m_Duration: 1.4978337772309123
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 2
+    m_Start: 0.8833333333333334
     m_ClipIn: 0
     m_Asset: {fileID: 6491933935163397504}
     m_Duration: 1.4333333333333331
@@ -331,14 +331,14 @@ MonoBehaviour:
   sourceGameObject:
     exposedName: 167490e9f8934b34db9086876f37b1f5
     defaultValue: {fileID: 0}
-  prefabGameObject: {fileID: 0}
+  prefabGameObject: {fileID: 1892078723244562, guid: 46876a2780737ec45a19d62f88e5ce56, type: 3}
   updateParticle: 1
   particleRandomSeed: 9036
-  updateDirector: 1
+  updateDirector: 0
   updateITimeControl: 1
   searchHierarchy: 0
   active: 1
-  postPlayback: 2
+  postPlayback: 1
 --- !u!114 &6617540383040540831
 MonoBehaviour:
   m_ObjectHideFlags: 1
